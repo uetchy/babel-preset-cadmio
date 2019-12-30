@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-jsxcad",
   "description": "Babel preset for JSXCAD.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
   "scripts": {
     "build": "babel -d lib src",
