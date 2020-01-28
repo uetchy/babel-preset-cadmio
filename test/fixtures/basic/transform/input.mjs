@@ -1,4 +1,4 @@
-import JSXCAD, { Sphere } from "jsxcad";
+import Cadmio, { Sphere } from "cadmio";
 
 const Component = (
   <>
@@ -6,4 +6,4 @@ const Component = (
   </>
 );
 
-export default JSXCAD.render(Component);
+export default Cadmio.render(Component);

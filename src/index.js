@@ -6,8 +6,8 @@ import addModuleExports from "babel-plugin-add-module-exports";
 export default declare((api, opts) => {
   api.assertVersion(7);
 
-  const pragma = opts.pragma || "JSXCAD.createElement";
-  const pragmaFrag = opts.pragmaFrag || "JSXCAD.Fragment";
+  const pragma = opts.pragma || "Cadmio.createElement";
+  const pragmaFrag = opts.pragmaFrag || "Cadmio.Fragment";
   const useBuiltIns = !!opts.useBuiltIns;
   const { useSpread } = opts;
 

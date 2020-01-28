@@ -1,1 +1,1 @@
-# babel-preset-jsxcad
+# babel-preset-cadmio

@@ -1,6 +1,6 @@
 {
-  "name": "babel-preset-jsxcad",
-  "description": "Babel preset for JSXCAD.",
+  "name": "babel-preset-cadmio",
+  "description": "Babel preset for Cadmio.",
   "version": "0.1.0",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
   "scripts": {
@@ -19,7 +19,7 @@
     "@babel/helper-plugin-test-runner": "^7.7.4",
     "@babel/helper-transform-fixture-test-runner": "^7.7.5",
     "jest": "^24.9.0",
-    "jsxcad": "^0.1.0"
+    "cadmio": "^0.1.0"
   },
   "main": "lib/index.js",
   "files": [
@@ -27,15 +27,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/uetchy/babel-preset-jsxcad.git"
+    "url": "https://github.com/uetchy/babel-preset-cadmio.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uetchy/babel-preset-jsxcad/issues"
+    "url": "https://github.com/uetchy/babel-preset-cadmio/issues"
   },
-  "homepage": "https://github.com/uetchy/babel-preset-jsxcad",
+  "homepage": "https://github.com/uetchy/babel-preset-cadmio",
   "keywords": [
     "babel-preset",
-    "jsxcad"
+    "cadmio"
   ]
 }
